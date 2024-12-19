@@ -1,12 +1,16 @@
-## ESTRUCTURA BÁSICA PARA UNA WEB
-Este repositorio contiene una estructura básica para una página web utilizando únicamente tres archivos fundamentales:
+# 🌐 ESTRUCTURA BÁSICA PARA UNA WEB
 
-index.html - La página principal de la web.
-script.js - Archivo JavaScript para la funcionalidad de la página.
-style.css - Archivo CSS para el diseño y estilo de la página.
+Este repositorio contiene un ejemplo sencillo pero interactivo de una página web utilizando únicamente tres archivos fundamentales:
+
+- **index.html**: La página principal de la web.
+- **script.js**: Archivo JavaScript para la funcionalidad de la página.
+- **style.css**: Archivo CSS para el diseño y estilo de la página.
+
+---
 
 ## 🚀 Estructura del Proyecto
-La estructura del proyecto es muy sencilla y está compuesta por los siguientes tres archivos:
+
+La estructura del proyecto es muy simple y está organizada de la siguiente manera:
 
 ```bash
 /mi-web
@@ -15,43 +19,53 @@ La estructura del proyecto es muy sencilla y está compuesta por los siguientes 
   └── style.css
 ```
 
-## 📄 Descripción de los Archivos
-index.html:
+## 📄 Descripción del Ejemplo
 
-Es el archivo principal de la página web. Contiene la estructura básica en HTML, como los encabezados, los párrafos, las imágenes, etc.
-En este archivo también se incluyen las referencias a los archivos de estilo y script (CSS y JS) para que la página funcione correctamente.
+En este ejemplo básico, hemos creado una web minimalista y estética con las siguientes características:
 
-script.js:
+Características
 
-Este archivo contiene todo el código JavaScript para agregar interactividad a la página web. Puedes agregar funcionalidades como eventos de clic, animaciones o cualquier otro comportamiento dinámico.
-Este archivo está vinculado en el index.html para que sea ejecutado cuando la página se cargue.
+**Diseño atractivo:** Un botón minimalista centrado en un fondo con estilo.
 
-style.css:
+**Interactividad:** Al presionar el botón, el fondo de la página cambia de color en un bucle de cinco colores diferentes.
 
-Aquí se encuentra todo el código CSS que da estilo a la página. Este archivo controla el diseño de los elementos HTML: colores, márgenes, tipografía, distribución de los elementos, etc.
-Está vinculado en el index.html para aplicar los estilos a la página.
+**Créditos visibles:** Un texto en la parte inferior de la página con "Creado por Cristian Querol".
 
-⚙️ Instalación y Uso
-Crear los Archivos Básicos
+## 📂 Archivos Incluidos
 
-Crea los tres archivos necesarios para la estructura básica de la web en tu proyecto:
+## index.html
 
-index.html: Crea este archivo y agrega la estructura básica de una página HTML.
-script.js: Crea este archivo y agrega el código JavaScript para la funcionalidad de la página.
-style.css: Crea este archivo y agrega el código CSS para el diseño de la página.
-Puedes copiar el contenido de nuestro repositorio para cada uno de los archivos.
+Contiene la estructura principal de la página.
+Incluye el botón interactivo, el texto de los créditos y las referencias a los archivos CSS y JS.
 
-## Abrir en un Navegador: 
+## style.css
 
-Puedes abrir directamente el archivo index.html en tu navegador para ver cómo se visualiza la página. No es necesario tener un servidor web en funcionamiento para que esta estructura básica funcione.
+Aplica un diseño moderno con colores mate.
+Estiliza el botón para hacerlo visualmente atractivo y centrado.
+Establece un fondo gris claro para la página.
 
-Simplemente haz doble clic en el archivo index.html o abre tu navegador y navega hasta el archivo.
+## script.js
 
-## 🖋️ Personalización
-Para personalizar esta estructura básica, solo necesitas editar los tres archivos:
+Agrega la funcionalidad para cambiar el color del fondo de manera cíclica al presionar el botón.
+Implementa un bucle para recorrer cinco colores definidos.
 
-index.html: Puedes agregar o quitar elementos HTML según las necesidades de tu proyecto (por ejemplo, enlaces, formularios, imágenes, etc.).
 
-style.css: Modifica los estilos de la página para adaptarlos a tu diseño preferido. Cambia colores, tipografías, márgenes y más.
+## ⚙️ Instalación y Uso
 
-script.js: Agrega interactividad y funcionalidades con JavaScript. Puedes incluir funciones como formularios dinámicos, validación de datos, o cualquier otra acción que se ejecute en respuesta a eventos del usuario.
+## Crear los Archivos
+
+Crea los siguientes tres archivos en tu proyecto:
+
+**index.html**
+
+**style.css**
+
+**script.js**
+
+Copia el contenido del repositorio en cada archivo.
+
+Abrir en un Navegador
+Abre el archivo index.html directamente en tu navegador para visualizar y probar la web interactiva.
+No necesitas un servidor web para esta estructura básica.
+
+💻 Autor: Cristian Querol
