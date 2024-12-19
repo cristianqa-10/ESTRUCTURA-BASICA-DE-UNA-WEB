@@ -64,7 +64,8 @@ Crea los siguientes tres archivos en tu proyecto:
 
 Copia el contenido del repositorio en cada archivo.
 
-Abrir en un Navegador
+## Abrir en un Navegador:
+
 Abre el archivo index.html directamente en tu navegador para visualizar y probar la web interactiva.
 No necesitas un servidor web para esta estructura básica.
 
